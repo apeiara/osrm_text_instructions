@@ -1,4 +1,5 @@
 # OSRMTextInstructions
+**WIP: This project is under heavy development and should not be integrated yet.**  
 
 OSRMTextInstructions is a gem to transform OSRM steps into text instructions.
 

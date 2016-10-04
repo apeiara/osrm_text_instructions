@@ -5,7 +5,7 @@ OSRMTextInstructions is a gem to transform OSRM steps into text instructions.
 This is an almost verbatim port of [osrm-text-instructions.js](https://github.com/Project-OSRM/osrm-text-instructions).
 
 Only version 5 of the API and the english locale is supported for now.  
-This is not stable yes and we still don't have any tests. Use at your own risk.
+This is not stable yet and we still don't have any tests. Use at your own risk.
 
 ## Installation
 

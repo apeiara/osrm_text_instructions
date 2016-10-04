@@ -61,7 +61,7 @@ module OSRMTextInstructions
           instruction += ' and exit onto {way_name}'
         end
       when 'use lane'
-        lane_diagram = useLane(step)
+        lane_diagram = use_lane(step)
         lane_instruction = instructions[version][type]['laneTypes'][lane_diagram]
 
         if lane_instruction
